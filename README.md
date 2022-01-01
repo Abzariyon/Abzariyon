@@ -7,5 +7,6 @@ Hi there 👋
   :id:[Instagram](https://www.instagram.com/hariharan_panda/)
     
 
-[![HARIHARAN's github stats](https://github-readme-stats.vercel.app/api?username=Abzariyon&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Abzariyon/github-readme-stats)
+[![HARIHARAN's github stats](https://github-readme-stats.vercel.app/api?username=Abzariyon&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Abzariyon/github-readme-stats) <br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abzariyon&layout=compact)](https://github.com/Abzariyon/github-readme-stats)
